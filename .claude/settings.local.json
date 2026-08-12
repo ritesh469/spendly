@@ -4,7 +4,13 @@
       "Bash(where python *)",
       "Bash(where python3 *)",
       "Bash(where py *)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(\"C:\\\\Users\\\\rites\\\\OneDrive\\\\Desktop\\\\expense-tracker\\\\expense-tracker\\\\venv\\\\Scripts\\\\python.exe\" app.py)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://127.0.0.1:5001/)",
+      "Bash(\"C:\\\\Users\\\\rites\\\\OneDrive\\\\Desktop\\\\expense-tracker\\\\expense-tracker\\\\venv\\\\Scripts\\\\pip.exe\" show *)",
+      "Bash(python3 -c \"print\\('node check'\\)\")"
     ]
   }
 }
